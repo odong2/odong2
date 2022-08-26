@@ -1,4 +1,4 @@
-##  Hello👋 let me introduce my profile
+##  Hello🙌 let me introduce my profile
 -------------------
 
 
