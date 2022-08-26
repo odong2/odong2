@@ -2,9 +2,10 @@
 
 
 <!-- git stats -->
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&theme=flag-india)
-
+</div>
 
 <!--
 git stats 사용법 (api주소 : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
