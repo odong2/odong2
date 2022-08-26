@@ -2,7 +2,8 @@
 
 <div>
 <!-- git stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&hide=css&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&hide=css&theme=tokyonight)
 
 
 <!--
