@@ -2,7 +2,7 @@
 -------------------
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjey54@odong2&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=ayu-mirage)
 
 
 
