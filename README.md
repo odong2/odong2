@@ -1,5 +1,6 @@
 ##  Hello🙌
 
+<!-- git stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true)
 
 
@@ -7,8 +8,9 @@
 git stats 사용법 (api주소 : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
 -->
+<!-- 언어 사용량 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?odong2=anuraghazra&layout=compact)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?odong2=6810779s&layout=compact&theme=slateorange )
 
 
 Tech Stack📒
