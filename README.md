@@ -13,7 +13,7 @@ Tech Stack📒
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=black"/></a>  <!-- 메이븐 -->
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></a>  <!-- 톰캣 -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/></a> <!-- 깃 -->
 
  <!-- -->
