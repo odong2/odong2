@@ -2,9 +2,12 @@
 -------------------
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india)
 
-
+<!--
+git stats 사용법 (api주소 : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
+-->
 
 Tech Stack📒
 ------------
@@ -20,7 +23,8 @@ Tech Stack📒
 <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/></a> <!-- 깃 -->
 
- <!-- -->
+<!-- -->
 <!--
+뱃지 사용법
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 -->
