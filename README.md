@@ -9,7 +9,7 @@ git stats 사용법 (api주소 : https://github.com/anuraghazra/github-readme-st
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&hide=css&theme=tokyonight)
 
 Tech Stack📒
 ------------
