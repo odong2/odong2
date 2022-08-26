@@ -1,6 +1,6 @@
 ##  Hello🙌 let me introduce my profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true)
 
 
 <!--
