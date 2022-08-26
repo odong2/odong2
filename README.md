@@ -2,7 +2,7 @@
 
 
 <!-- git stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true&hide=Totalissues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=flag-india&show_icons=true&hide=total issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&layout=compact&theme=flag-india)
 
 
