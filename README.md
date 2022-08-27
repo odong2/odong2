@@ -11,7 +11,7 @@ git stats 사용법 (api주소 : https://github.com/anuraghazra/github-readme-st
 
 
 
-Tech Stack📒
+Tech Stack<a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 ------------
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <!-- html -->
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <!-- css -->
