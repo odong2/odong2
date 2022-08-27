@@ -11,7 +11,6 @@ Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/></a>  
 <img src="https://img.shields.io/badge/Java-5A45FF?style=for-the-badge&logo=Java&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"/></a>
-
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=black"/></a>  
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"/></a>  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=black"/></a>
