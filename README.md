@@ -1,9 +1,4 @@
 # Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
---------
-<!-- git stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odong2&show_icons=true&theme=slateorange&show_icons=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odong2&hide=css&layout=compact&theme=slateorange)
-
-Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 ------------
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> 
