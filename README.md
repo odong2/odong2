@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Backend%20&desc=Min%20Jun%20Kim&color=auto)
 
 <p align="center">
-  <h4>  _______  개발자입니다. </h4>
+  <h4> 저는 _______  개발자입니다. </h4>
   <ul>
     <li>새로운 것을 배우는데 거리낌이 없는</li>
     <li>문제 해결을 위해 집요하게 파고드는</li>
