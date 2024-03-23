@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Backend Engineer%20&desc=Min%20Jun%20kIM&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=BackendEngineer%20&desc=Min%20Jun%20kIM&color=auto)
 
 # Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
