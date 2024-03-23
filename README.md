@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<p aline="center">
+<p align='center'>
   <h4>저는  _______  개발자입니다. </h6>
   <ul>
     <li>새로운 것을 배우는데 거리낌이 없는</li>
