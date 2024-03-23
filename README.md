@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Backend%20&desc=Min%20Jun%20Kim&color=auto)
 
-# Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
 <p align="center">
   <h4>저는  _______  개발자입니다. </h4>
   <ul>
